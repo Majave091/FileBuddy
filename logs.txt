@@ -1,0 +1,230 @@
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 18:39:07 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 18:39:54 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 18:41:40 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 18:41:40 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 18:41:40 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 18:41:40 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 18:41:41 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 18:44:37 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 18:50:03 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 18:59:19 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 19:00:37 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 19:21:43 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 19:24:30 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 19:24:30 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 19:24:31 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 19:39:58 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 19:40:29 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 19:40:29 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 19:40:30 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 19:44:42 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Changed
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 19:47:53 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 20:00:49 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 20:00:49 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002256773228
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 7618492341
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Sub. Chat 1: -1002442824238
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> @SharingManRobot 7689957147
+2025-01-26 | 20:00:50 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-26 | 20:01:38 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-26 | 20:02:12 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-26 | 20:02:12 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-26 | 20:02:12 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-26 | 20:02:12 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-26 | 20:02:17 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002463699487
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 1675590687
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Sub. Chats: None
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> @IndoAnimeBoxBot 7772073610
+2025-01-26 | 20:02:18 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-26 | 20:05:48 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Customized
+2025-01-26 | 20:08:04 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Customized
+2025-01-26 | 20:08:40 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Customized
+2025-01-26 | 20:09:19 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Customized
+2025-01-28 | 11:38:52 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-28 | 11:38:52 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-28 | 11:38:52 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-28 | 11:38:52 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-28 | 11:38:52 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002463699487
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 1675590687
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Sub. Chats: None
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> @IndoAnimeBoxBot 7772073610
+2025-01-28 | 11:38:53 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-28 | 11:39:47 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
+2025-01-28 | 11:43:45 [ INFO  ] IndoAnimeBox.bot -> Uvloop: Set Event Loop
+2025-01-28 | 11:43:45 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connecting...
+2025-01-28 | 11:43:45 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Connected
+2025-01-28 | 11:43:45 [ INFO  ] IndoAnimeBox.bot -> Bot: Starting...
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Bot: Started
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Generate Url: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Protect Content: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Hun Text: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Img Text: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Force Text: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Start Text: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Reply Text: Existed
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> ChatDB: -1002463699487
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Bot Admin 1: 1675590687
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Sub. Chats: None
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> BroadcastID: None, None
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> @IndoAnimeBoxBot 7772073610
+2025-01-28 | 11:43:46 [ INFO  ] IndoAnimeBox.bot -> Bot Activated!
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> KeyboardInterrupt: Terminating...
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopping...
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> Bot: Stopped
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closing...
+2025-01-28 | 11:44:00 [ INFO  ] IndoAnimeBox.bot -> MongoDB: Closed
